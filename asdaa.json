@@ -1,0 +1,279 @@
+{
+  "totalFiles": 45,
+  "totalDuration": "01:57:42",
+  "icon": ".png",
+  "sec_ar": "أصداء",
+  "sec_en": "Asdaa",
+  "files": [
+    {
+      "id": "01",
+      "ar": "أسودٌ زمجرت",
+      "en": "Usudun zamjarat",
+      "duration": "02:02"
+    },
+    {
+      "id": "02",
+      "ar": "ألا قوموا",
+      "en": "Ala qumu",
+      "duration": "04:16"
+    },
+    {
+      "id": "03",
+      "ar": "أيا نفس قومي",
+      "en": "Ayya nafs qumi",
+      "duration": "02:20"
+    },
+    {
+      "id": "04",
+      "ar": "إن كركوك",
+      "en": "In karkuk",
+      "duration": "02:49"
+    },
+    {
+      "id": "05",
+      "ar": "إنما الدنيا",
+      "en": "Innama aldunya",
+      "duration": "01:14"
+    },
+    {
+      "id": "06",
+      "ar": "اشفوا الصدور",
+      "en": "Ishfu alssudur",
+      "duration": "02:06"
+    },
+    {
+      "id": "07",
+      "ar": "اضرب 2",
+      "en": "Idrib 2",
+      "duration": "02:59"
+    },
+    {
+      "id": "08",
+      "ar": "اقصِفوا ما شٍئتُمُ",
+      "en": "Iqsifu ma shitum",
+      "duration": "01:31"
+    },
+    {
+      "id": "09",
+      "ar": "اليوم يوم الدقم",
+      "en": "Alyawm yawm aldaqm",
+      "duration": "04:31"
+    },
+    {
+      "id": "10",
+      "ar": "بالسكاكين انطلقنا",
+      "en": "Bilssakakin intalaqna",
+      "duration": "01:53"
+    },
+    {
+      "id": "11",
+      "ar": "بكسر الجماجم",
+      "en": "Bikasir aljamajim",
+      "duration": "02:42"
+    },
+    {
+      "id": "12",
+      "ar": "بلاد الحق",
+      "en": "Bilad alhaq",
+      "duration": "00:35"
+    },
+    {
+      "id": "13",
+      "ar": "بلغوا للقيادة",
+      "en": "Ballighu lilqiyada",
+      "duration": "03:03"
+    },
+    {
+      "id": "14",
+      "ar": "تألّبوا ضدّ دولتنا",
+      "en": "Taallbu didda dawlatina",
+      "duration": "02:28"
+    },
+    {
+      "id": "15",
+      "ar": "تحية للآساد",
+      "en": "Tahiya lilaasad",
+      "duration": "02:28"
+    },
+    {
+      "id": "16",
+      "ar": "ثبات الجبال",
+      "en": "Thabat aljibaal",
+      "duration": "02:36"
+    },
+    {
+      "id": "17",
+      "ar": "جحيم بروكسل",
+      "en": "Jahim brussel",
+      "duration": "01:47"
+    },
+    {
+      "id": "18",
+      "ar": "جهز الغازي",
+      "en": "Jahhiz alghazi",
+      "duration": "02:34"
+    },
+    {
+      "id": "19",
+      "ar": "حاوِلوا مِن غَيرِ جَدْوى",
+      "en": "Hawilu min ghayri jadwa",
+      "duration": "01:48"
+    },
+    {
+      "id": "20",
+      "ar": "حدثي يا ليبيا",
+      "en": "Haddithi ya libya",
+      "duration": "03:09"
+    },
+    {
+      "id": "21",
+      "ar": "رمضان جاء",
+      "en": "Ramadan ja",
+      "duration": "01:32"
+    },
+    {
+      "id": "22",
+      "ar": "سئمت البقاء",
+      "en": "Samat albaqa",
+      "duration": "02:47"
+    },
+    {
+      "id": "23",
+      "ar": "سنمضي في الطريق ولن نبالي",
+      "en": "Sanmadhi fi altariq walan nubali",
+      "duration": "05:34"
+    },
+    {
+      "id": "24",
+      "ar": "سيف الردى",
+      "en": "Sayf alrada",
+      "duration": "02:47"
+    },
+    {
+      "id": "25",
+      "ar": "طلقتها الدنيا",
+      "en": "Talaqatha aldunya",
+      "duration": "01:31"
+    },
+    {
+      "id": "26",
+      "ar": "عجباً لِمن قد سارَ",
+      "en": "Ajaban liman qad sar",
+      "duration": "03:29"
+    },
+    {
+      "id": "27",
+      "ar": "عصف وقصف",
+      "en": "Asf waqasf",
+      "duration": "02:20"
+    },
+    {
+      "id": "28",
+      "ar": "على أرض العفاف",
+      "en": "Ala ard alafaf",
+      "duration": "02:01"
+    },
+    {
+      "id": "29",
+      "ar": "فلوجة الأبطال",
+      "en": "Fallujat alabtal",
+      "duration": "02:15"
+    },
+    {
+      "id": "30",
+      "ar": "في تدمر الأبطال",
+      "en": "Fi tadmur alabtal",
+      "duration": "02:29"
+    },
+    {
+      "id": "31",
+      "ar": "كبر ودقّمها",
+      "en": "Kabbir wadaqqimha",
+      "duration": "04:55"
+    },
+    {
+      "id": "32",
+      "ar": "لا أبالي",
+      "en": "La ubali",
+      "duration": "03:27"
+    },
+    {
+      "id": "33",
+      "ar": "لكي يا أخت الرجال",
+      "en": "Laki ya ukht alrijal",
+      "duration": "03:25"
+    },
+    {
+      "id": "34",
+      "ar": "مؤسسة أصداء - إقدام الأشاوس",
+      "en": "Muassasat asdaa iqdam alashaawis",
+      "duration": "03:34"
+    },
+    {
+      "id": "35",
+      "ar": "مثل البهائم",
+      "en": "Mithl albahayim",
+      "duration": "02:34"
+    },
+    {
+      "id": "36",
+      "ar": "مفخخة السنا",
+      "en": "Mufakhkhat alsana",
+      "duration": "01:59"
+    },
+    {
+      "id": "37",
+      "ar": "موال أرض العفاف",
+      "en": "Mawal ard alafaf",
+      "duration": "00:56"
+    },
+    {
+      "id": "38",
+      "ar": "نسري بالموت الزؤام",
+      "en": "Nasri bilmawt alzuam",
+      "duration": "02:34"
+    },
+    {
+      "id": "39",
+      "ar": "هاهنا للدين قامت",
+      "en": "Hahuna lilddin qamat",
+      "duration": "01:59"
+    },
+    {
+      "id": "40",
+      "ar": "هذه الموصل",
+      "en": "Hadhihi almawsil",
+      "duration": "01:45"
+    },
+    {
+      "id": "41",
+      "ar": "هنا الصومال",
+      "en": "Huna alssumal",
+      "duration": "03:27"
+    },
+    {
+      "id": "42",
+      "ar": "وحيدٌ هزني ظلمُ الأعادي",
+      "en": "Wahidun hazzani dhulm alaadi",
+      "duration": "02:22"
+    },
+    {
+      "id": "43",
+      "ar": "يا الله وين القاعدة",
+      "en": "Ya allah wayn alqaida",
+      "duration": "01:58"
+    },
+    {
+      "id": "44",
+      "ar": "يا دولة الإسلام سيري",
+      "en": "Ya dawlat alislam siri",
+      "duration": "02:10"
+    },
+    {
+      "id": "45",
+      "ar": "يا رومُ جئنا",
+      "en": "Ya rum jina",
+      "duration": "05:01"
+    }
+  ]
+}
